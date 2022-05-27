@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homework-8</string>
+    <string name="notes">Notes</string>
+    <string name="pinned">Pinned</string>
+    <string name="other">Other</string>
+    <string name="enter_title">Enter title</string>
+    <string name="write_note_itself">Write note itself</string>
+    <string name="reminders">Reminders</string>
+</resources>
